@@ -21,6 +21,7 @@
    Access the directory of project and install the dependencies `npm install`.
    
 3. Instale o Mocha globalmente com `npm i -g mocha`.
+
    You must install Mocha globally with `npm i -g mocha`. 
    
 4. Use `mocha` para rodar o teste no terminal.
