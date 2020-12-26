@@ -1,4 +1,4 @@
-# <h2 align="center">Treinando TDD com Mocha no Node.js - Training TDD with Mocha on Node.js</h2>
+# <h2>Treinando TDD com Mocha no Node.js - Training TDD with Mocha on Node.js</h2>
 
 <p align="center">Usando o Mocha para testar o código que consome os dados dos personagens de Star Wars de uma API.</p>
 <p align="center">Using Mocha to test the code that consumes Star Wars characters data from an API.</p>
@@ -20,6 +20,9 @@
 
    Access the directory of project and install the dependencies `npm install`.
    
-3. Use `node test.js` para rodar o teste no terminal.
+3. Instale o Mocha globalmente com `npm i -g mocha`.
+   You must install Mocha globally with `npm i -g mocha`. 
+   
+4. Use `mocha` para rodar o teste no terminal.
 
-   Use `node test.js` to run the test on the terminal.
+   Use `mocha` to run the test on the terminal.
